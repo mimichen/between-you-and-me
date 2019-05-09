@@ -83,7 +83,7 @@
 * 主題： 新聞不死，只是很累
 * 須參加人員： all
 * 事前準備：
-  * [投影片]()
+  * [投影片](https://drive.google.com/open?id=1yTwN8zo4JAamB4uxPaWeKCkOhQMdS8JxM8BiI_zcG8k)
 
 ## 2019-04-25
 * 講者： weimin
